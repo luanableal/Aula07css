@@ -1,0 +1,77 @@
+.exemplos{
+    display: flex;
+
+}
+
+
+#hexa{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color: #0000ff;
+}
+
+#hexa-transp{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color: #0000ff80;
+}
+
+#rgb{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color:rgb(0, 0, 255);
+}
+
+#rgba{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color:rgba(0, 0, 255, 0.5);
+}
+
+#hsl{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color:hsl(240, 100%, 50%);
+}
+
+#hsla{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color:hsla(240, 100%, 50%, 0.5);
+}
+
+#cor-pre{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    color:antiquewhite;
+    background-color:blue;
+}
+
+#currente{
+    width: 170px;
+    height: 170px;
+    border: solid;
+    text-align: center;
+    background-color:currentColor;
+}
+
